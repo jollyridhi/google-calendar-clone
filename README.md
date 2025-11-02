@@ -193,7 +193,10 @@ google-calendar-clone/
 
 ## 📸 Preview
 
-![ Screenshot](public/img/Calendar1.png)
+<img src="public/img/Calendar1.png" alt="Google Calendar Clone Preview" width="800" />
+
+> A modern, high-fidelity Google Calendar clone with Month, Week & Day views.
+
 
 ---
 
