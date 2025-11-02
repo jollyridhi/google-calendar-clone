@@ -5,8 +5,8 @@ This project replicates Google Calendar’s key functionalities and responsive U
 
 ---
 
-## 🌐 Live Demo
-🔗 https://google-calendar-clone-wn6d.vercel.app/
+## 🌍 Live Demo  
+🔗 **Deployed App:** [https://google-calendar-clone-wn6d.vercel.app/](https://google-calendar-clone-wn6d.vercel.app/)
 
 ---
 
@@ -108,6 +108,8 @@ Client Form ➜ Server Action ➜ Drizzle ORM ➜ PostgreSQL
 - npm or yarn
 - Neon account with PostgreSQL DB setup
 
+---
+
 ### Installation
 
 1. **Clone the repository**
@@ -128,8 +130,6 @@ Client Form ➜ Server Action ➜ Drizzle ORM ➜ PostgreSQL
    ```bash
    DATABASE_URL="your_neon_postgresql_connection_string"
    ```
-
-   **Important:** Do **not** commit `.env.local` to GitHub. `.gitignore` already ignores it.
 
 4. **Run database migrations**
 
@@ -162,7 +162,7 @@ google-calendar-clone/
 ├── components/              # Shared UI and modal components
 ├── db/                      # Database schema and Drizzle configuration
 ├── public/                  # Static assets (images, icons)
-│   └── img/Calendar1.png     # App preview image (path: public/img/Calendar1.png)
+│   └── img/calendar_1_2x.png   # App preview image
 ├── .env.local               # Environment variables (ignored in Git)
 ├── drizzle.config.ts        # Drizzle ORM setup
 ├── tailwind.config.ts       # TailwindCSS configuration
@@ -204,19 +204,15 @@ google-calendar-clone/
 
 ---
 
----
-
 ## 👩‍💻 Author
 
-### **Ridhi Jolly**  
+### **Ridhi Jolly**
+
 **Software Engineer | Full Stack Developer**
 
-📧 **Email:** [ridhi.jolly03@gmail.com](mailto:ridhi.jolly03@gmail.com)  
-🌐 **LinkedIn:** [linkedin.com/in/ridhi-jolly-68a926248](https://www.linkedin.com/in/ridhi-jolly-68a926248/)  
+📧 **Email:** [ridhi.jolly03@gmail.com](mailto:ridhi.jolly03@gmail.com)
+🌐 **LinkedIn:** [linkedin.com/in/ridhi-jolly-68a926248](https://www.linkedin.com/in/ridhi-jolly-68a926248/)
 💻 **GitHub:** [github.com/jollyridhi](https://github.com/jollyridhi)
-
----
-
 
 ---
 
