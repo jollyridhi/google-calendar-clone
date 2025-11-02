@@ -204,14 +204,19 @@ google-calendar-clone/
 
 ---
 
+---
+
 ## 👩‍💻 Author
 
-**Ridhi Jolly**  
-Software Engineer | Full Stack Developer  
+### **Ridhi Jolly**  
+**Software Engineer | Full Stack Developer**
 
 📧 **Email:** [ridhi.jolly03@gmail.com](mailto:ridhi.jolly03@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/ridhi-jolly-68a926248](https://www.linkedin.com/in/ridhi-jolly-68a926248/)  
 💻 **GitHub:** [github.com/jollyridhi](https://github.com/jollyridhi)
+
+---
+
 
 ---
 
