@@ -5,6 +5,14 @@ This project replicates Google Calendar’s key functionalities and responsive U
 
 ---
 
+## 📸 Preview
+
+<img src="./public/img/Calendar1.png" alt="Google Calendar Clone Preview" width="800" />
+
+> A modern, high-fidelity Google Calendar clone with Month, Week & Day views.
+
+---
+
 ## 🚀 Features
 
 - **Add, Edit, Delete Events (Full CRUD)**  
@@ -101,7 +109,7 @@ Client Form ➜ Server Action ➜ Drizzle ORM ➜ PostgreSQL
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/google-calendar-clone.git
+   git clone https://github.com/jollyridhi/google-calendar-clone.git
    cd google-calendar-clone
 ````
 
@@ -114,7 +122,7 @@ Client Form ➜ Server Action ➜ Drizzle ORM ➜ PostgreSQL
 3. **Configure environment**
    Create a `.env.local` file in the root directory and add:
 
-   ```
+   ```bash
    DATABASE_URL="your_neon_postgresql_connection_string"
    ```
 
@@ -149,8 +157,8 @@ google-calendar-clone/
 ├── components/              # Shared UI and modal components
 ├── db/                      # Database schema and Drizzle configuration
 ├── public/                  # Static assets (images, icons)
-│   └── gcclone.png          # App preview image
-├── .env.local               # Environment variables
+│   └── img/calendar_1_2x.png   # App preview image
+├── .env.local               # Environment variables (ignored in Git)
 ├── drizzle.config.ts        # Drizzle ORM setup
 ├── tailwind.config.ts       # TailwindCSS configuration
 ├── package.json             # Scripts & dependencies
@@ -173,10 +181,10 @@ google-calendar-clone/
 
 ## 🪄 Animations & Interactions
 
-* **Framer Motion** modals and transitions.
-* **TailwindCSS transitions** for hover, press, and focus states.
-* **Animated state updates** when events are created or deleted.
-* Future support for **drag-and-drop scheduling**.
+* **Framer Motion** modals and transitions
+* **TailwindCSS transitions** for hover, press, and focus states
+* **Animated state updates** when events are created or deleted
+* Future support for **drag-and-drop scheduling**
 
 ---
 
@@ -191,22 +199,12 @@ google-calendar-clone/
 
 ---
 
-## 📸 Preview
-
-<img src="public/img/Calendar1.png" alt="Google Calendar Clone Preview" width="800" />
-
-> A modern, high-fidelity Google Calendar clone with Month, Week & Day views.
-
-
----
-
 ## 👩‍💻 Author
 
 **Ridhi Jolly**
 Software Engineer | Full Stack Developer
 📧 [ridhi.jolly03@gmail.com](mailto:ridhi.jolly03@gmail.com)
-📞 +91-9013177111
-🌐 [LinkedIn](https://linkedin.com/in/ridhi-jolly) • [GitHub](https://github.com/ridhijolly)
+🌐 [LinkedIn](https://www.linkedin.com/in/ridhi-jolly-68a926248/) • [GitHub](https://github.com/jollyridhi)
 
 ---
 
